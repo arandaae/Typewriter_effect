@@ -1,0 +1,16 @@
+F:\C# Practice\Typewriter_Effect\Typewriter_Effect\obj\Debug\net5.0\Typewriter_Effect.csproj.AssemblyReference.cache
+F:\C# Practice\Typewriter_Effect\Typewriter_Effect\obj\Debug\net5.0\Typewriter_Effect.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Practice\Typewriter_Effect\Typewriter_Effect\obj\Debug\net5.0\Typewriter_Effect.AssemblyInfoInputs.cache
+F:\C# Practice\Typewriter_Effect\Typewriter_Effect\obj\Debug\net5.0\Typewriter_Effect.AssemblyInfo.cs
+F:\C# Practice\Typewriter_Effect\Typewriter_Effect\obj\Debug\net5.0\Typewriter_Effect.csproj.CoreCompileInputs.cache
+F:\C# Practice\Typewriter_Effect\Typewriter_Effect\bin\Debug\net5.0\Typewriter_Effect.exe
+F:\C# Practice\Typewriter_Effect\Typewriter_Effect\bin\Debug\net5.0\Typewriter_Effect.deps.json
+F:\C# Practice\Typewriter_Effect\Typewriter_Effect\bin\Debug\net5.0\Typewriter_Effect.runtimeconfig.json
+F:\C# Practice\Typewriter_Effect\Typewriter_Effect\bin\Debug\net5.0\Typewriter_Effect.runtimeconfig.dev.json
+F:\C# Practice\Typewriter_Effect\Typewriter_Effect\bin\Debug\net5.0\Typewriter_Effect.dll
+F:\C# Practice\Typewriter_Effect\Typewriter_Effect\bin\Debug\net5.0\Typewriter_Effect.pdb
+F:\C# Practice\Typewriter_Effect\Typewriter_Effect\obj\Debug\net5.0\Typewriter_Effect.dll
+F:\C# Practice\Typewriter_Effect\Typewriter_Effect\obj\Debug\net5.0\refint\Typewriter_Effect.dll
+F:\C# Practice\Typewriter_Effect\Typewriter_Effect\obj\Debug\net5.0\Typewriter_Effect.pdb
+F:\C# Practice\Typewriter_Effect\Typewriter_Effect\obj\Debug\net5.0\Typewriter_Effect.genruntimeconfig.cache
+F:\C# Practice\Typewriter_Effect\Typewriter_Effect\obj\Debug\net5.0\ref\Typewriter_Effect.dll

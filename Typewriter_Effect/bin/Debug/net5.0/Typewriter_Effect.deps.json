@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Typewriter_Effect/1.0.0": {
+        "runtime": {
+          "Typewriter_Effect.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Typewriter_Effect/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
